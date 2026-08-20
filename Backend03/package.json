@@ -1,0 +1,15 @@
+{
+  "name": "backend03",
+  "version": "1.0.0",
+  "description": "learning basics of mongooes",
+  "license": "ISC",
+  "author": "lucky",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mongoose": "^9.9.3"
+  }
+}

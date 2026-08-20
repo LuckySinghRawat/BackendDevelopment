@@ -18,8 +18,9 @@ I am learning backend development to understand how complete applications work, 
 
 ## Learning Projects
 
-- **Backend01:** Installation, Express for creating a server, and about Dotenv
-- **Backend02:** Backend setup, Frontend setup, Fetching data, Axios and Proxy setup
+- **Backend01:** **Installation**, **Express** for creating a server, and about **Dotenv**.
+- **Backend02:** Backend setup, Frontend setup, Fetching data, **Axios** and **Proxy** setup.
+- **Backend02:** Data Modeling with **Mongoose**.
 
 ## Learning Resources
 
