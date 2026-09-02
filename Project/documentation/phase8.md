@@ -66,3 +66,5 @@ Routes define the API endpoints that allow clients to access controller function
 **Where and why I used it:**
 - I connected `refreshAccessToken`, `changeCurrentPassword`, `getCurrentUser`, `updateUserDetails`, `updateUserAvatar`, `updateUserCoverImage`, `getUserProfile`, and `getWatchHistory` to their respective routes in `user.routes.js`.
 - I used this to learn how controllers, routes, middleware, and client requests work together in the backend.
+
+[Go back to README](../Readme.md)

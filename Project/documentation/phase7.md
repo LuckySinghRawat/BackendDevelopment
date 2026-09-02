@@ -74,3 +74,5 @@ This function updates the user's cover image.
 **Where and why I used it:**
 - I used this while learning how to manage multiple image uploads in the backend.
 - It is important for handling profile customization and storing image data properly in the database.
+
+[Go back to README](../Readme.md)

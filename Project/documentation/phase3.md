@@ -146,3 +146,5 @@ This defines the video schema.
 Why it is used:
 - It stores information about each uploaded video, such as title, description, owner, duration, views, likes, and video URL.
 - In a YouTube clone, videos are the core content of the app.
+
+[Go back to README](../Readme.md)

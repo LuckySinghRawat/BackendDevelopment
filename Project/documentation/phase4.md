@@ -117,3 +117,5 @@ In this test:
 - The request sends the required user information and, when needed, profile files.
 - The backend validates the request, hashes the password, uploads media, creates the user document, and returns a response.
 - Thunder Client displays the response so I can confirm whether the registration process succeeded.
+
+[Go back to README](../Readme.md)

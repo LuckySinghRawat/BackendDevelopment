@@ -72,3 +72,5 @@ Why debugging these files was important:
 - Cloudinary must successfully upload the files and return the required file information.
 
 Fixing these bugs helped me understand how the route, middleware, controller, database, and cloud storage work together during user registration.
+
+[Go back to README](../Readme.md)
